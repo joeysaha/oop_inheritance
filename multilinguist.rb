@@ -52,3 +52,8 @@ class Multilinguist
     json_response['translationText']
   end
 end
+
+# person = Multilinguist.new
+# person.travel_to('Mexico')
+# puts person.say_in_local_language('Hello how are you')
+# puts person.language_in('France')
